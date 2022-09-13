@@ -1,0 +1,17 @@
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\bin\Debug\net6.0\DialogClients.Logic.deps.json
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\bin\Debug\net6.0\DialogClients.Logic.dll
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\bin\Debug\net6.0\DialogClients.Logic.pdb
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\bin\Debug\net6.0\DialogClients.Data.dll
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\bin\Debug\net6.0\DialogClients.Domain.dll
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\bin\Debug\net6.0\DialogClients.Data.pdb
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\bin\Debug\net6.0\DialogClients.Domain.pdb
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\DialogClients.Logic.csproj.AssemblyReference.cache
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\DialogClients.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\DialogClients.Logic.AssemblyInfoInputs.cache
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\DialogClients.Logic.AssemblyInfo.cs
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\DialogClients.Logic.csproj.CoreCompileInputs.cache
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\DialogClients.Logic.csproj.CopyComplete
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\DialogClients.Logic.dll
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\refint\DialogClients.Logic.dll
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\DialogClients.Logic.pdb
+D:\YandexDisk\TZ  Junior\DialogClients.Logic\obj\Debug\net6.0\ref\DialogClients.Logic.dll

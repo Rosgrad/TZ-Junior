@@ -1,0 +1,34 @@
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\appsettings.Development.json
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\appsettings.json
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\TZ  Junior.staticwebassets.runtime.json
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\TZ  Junior.exe
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\TZ  Junior.deps.json
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\TZ  Junior.runtimeconfig.json
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\TZ  Junior.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\TZ  Junior.pdb
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\DialogClients.Domain.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\DialogClients.Domain.pdb
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.csproj.AssemblyReference.cache
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.AssemblyInfoInputs.cache
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.AssemblyInfo.cs
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.csproj.CoreCompileInputs.cache
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.MvcApplicationPartsAssemblyInfo.cache
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\staticwebassets.build.json
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\staticwebassets.development.json
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\scopedcss\bundle\TZ  Junior.styles.css
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.csproj.CopyComplete
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\refint\TZ  Junior.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.pdb
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.genruntimeconfig.cache
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\ref\TZ  Junior.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\DialogClients.Data.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\DialogClients.Logic.dll
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\DialogClients.Logic.pdb
+D:\YandexDisk\TZ  Junior\TZ  Junior\bin\Debug\net6.0\DialogClients.Data.pdb
+D:\YandexDisk\TZ  Junior\TZ  Junior\obj\Debug\net6.0\TZ  Junior.MvcApplicationPartsAssemblyInfo.cs
